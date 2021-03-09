@@ -1,12 +1,3 @@
-"""
-Description: - This script will find the least cost feed ration as determined by linear programming.
-
-Requirements:
-- Python 3
-- PuLP library
-
-@author: Charles Grant
-"""
 
 from pulp import *
 
